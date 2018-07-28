@@ -1,0 +1,42 @@
+{
+	"details":{
+		"name":"vidhya",
+		"image":"download.jpg",
+		"phone":"9849070351",
+		"email":"chaparalavidhya@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC COLLEGE OF TECHNOLOGY",
+			"branch":"COMPUTER SCIENCE",
+			"percentage":"80%"
+		},
+		{
+			"course":"INTERMEDIATE(MPC)",
+			"college":"NARAYANA",
+			"percentage":"92.5%"
+		},
+		{
+			"course":"SSC",
+			"school":"SRI CHAITANYA TECHNO SCHOOL",
+			"percentage":"80%"
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Language",
+			"output":[
+				"c","c++","java","python"
+			]
+		},
+	{
+		"title":"Operating System",
+		"output":[
+			"Windows","Linux","MAC"
+		]
+	}
+],
+	"carrier":{
+		"co":"to association with organization and utilize my technical skills"
+	}

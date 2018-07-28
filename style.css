@@ -1,13 +1,48 @@
 .Main{
 	width: 100%;
-    background-color: #c45e45;
+    background-color: skyblue;
     display:flex;
+    justify-content: center;
+    text-align: center;
  } 
  .left{
  	width: 30%;
- 	border: 3px solid #2df;
+ 	border: 3px solid black;
+ 	box-shadow: 3px 3px 3px white;
+ 	margin: 1%;
+ 	padding: 1%;
+ 	background-color: orange;
+ 	text-align: center;
  }
  .right{
  	width: 70%;
- 	border: 3px solid #2df;
+ 	border: 3px solid green;
+ 	box-shadow: 3px 3px 3px white;
+ 	margin: 1%;
+ 	border: 2px solid #000;
+ 	padding: 1%;
  }
+ img{
+ 	width: 70%;
+ 	border: 3px solid green;
+ 	box-shadow: 3px 3px 3px white;
+ 	margin: 1%;
+ 	border-radius: : 10px solid #000;
+ 	padding: 1%;
+
+ }
+h1,
+h2,
+h3{
+	font-size: 33px;
+}
+@media only screen and (max-width: 1025px){
+	.Main{
+		display: flex;
+		flex-direction: colomn;
+	}
+}
+.sset table,tr,td{
+	border: 2px solid #000;
+}
+	
